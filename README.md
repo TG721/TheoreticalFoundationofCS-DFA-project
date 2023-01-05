@@ -2,7 +2,7 @@
 The Program uses tkinter GUI and through input information it builds diagram of DFA and also has functionality to check input string on acceptance
 
 
-#input example
+## input example
 
 Enter states        q0 q1 q2 d
 Enter input symbols 0 1
