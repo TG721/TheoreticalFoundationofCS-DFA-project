@@ -17,4 +17,8 @@ as you can see inputs need to be written in the style as provided in the example
 in transations, each line of input represents transition for first state in the line input. q0 takes 0 and goes to d state when q0 takes input of 1 it goes to q1 state. in this example there is only 1 final state however we can input more final states by simply separating them with space.
 
 after clicking build button PDF file of visulised diagram will pop up then in
-'Enter Input string' we can type input string and check if the inputed string is accpted by built DFA or not by cliking on check button
+'Enter Input string' we can type input string and check if the inputed string is accpted by built DFA or not by cliking on check button.
+
+## Screenshot
+
+<img width="359" alt="screenshot" src="https://user-images.githubusercontent.com/85778941/211063314-71242293-fe5c-49a1-94dc-b5e9d8e7b37d.png">
